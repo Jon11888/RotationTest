@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1712972464
-CharacterBodyBox.gd::GDScript::-1::1712910353::0::1::::<>CharacterBody2D<>::
+::res://::1712985683
+CharacterBodyBox.gd::GDScript::-1::1712974989::0::1::::<>CharacterBody2D<>::
 Coin.png::CompressedTexture2D::7494915766344152272::1712913343::1712913343::1::::<><>::
 Crate2.png::CompressedTexture2D::4337444569239227288::1712910165::1712910165::1::::<><>::
 Crate.png::CompressedTexture2D::5609186427770976392::1712907062::1712907062::1::::<><>::
 HeldObject.gd::GDScript::-1::1712913656::0::1::::<>Sprite2D<>::
 icon.svg::CompressedTexture2D::8140671931747564041::1712906976::1712906979::1::::<><>::
-node_2d.tscn::PackedScene::7759415405921417889::1712921416::0::1::::<><>::uid://qubpj1b6wwke::::res://TileMap2.png<>res://Player.gd<>uid://cojikbnx5u4qn::::res://Smile.png<>uid://de1ufx2l10tdw::::res://Coin.png<>res://HeldObject.gd<>uid://b22dcwtlvrr73::::res://Crate2.png<>res://CharacterBodyBox.gd<>uid://cl6eql8m2icro::::res://Crate.png
-Player.gd::GDScript::-1::1712921330::0::1::::<>CharacterBody2D<>::
+node_2d.tscn::PackedScene::7759415405921417889::1712974989::0::1::::<><>::uid://qubpj1b6wwke::::res://TileMap2.png<>res://Player.gd<>uid://cojikbnx5u4qn::::res://Smile.png<>uid://de1ufx2l10tdw::::res://Coin.png<>res://HeldObject.gd<>uid://b22dcwtlvrr73::::res://Crate2.png<>res://CharacterBodyBox.gd<>uid://cl6eql8m2icro::::res://Crate.png
+Player.gd::GDScript::-1::1712974422::0::1::::<>CharacterBody2D<>::
 Smile.png::CompressedTexture2D::5774568245678106689::1712907067::1712907068::1::::<><>::
 TileMap2.png::CompressedTexture2D::1164397070153871984::1712907081::1712907081::1::::<><>::
